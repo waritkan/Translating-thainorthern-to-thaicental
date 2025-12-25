@@ -1,1 +1,2 @@
-I use this pretrained model to do Northern Thai translation training. Details can be found at 'thainorthern-to-thaicentral.ipynb'.
+Using Pre-trained translation model (include thai) to train on Northern Thai text. (Thai --> Thai northen)
+Details can be found at 'thainorthern-to-thaicentral.ipynb'.
